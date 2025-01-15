@@ -14,14 +14,14 @@ void main(){
   // printf(": %s \n",player_name);
   // system("cls");
 
-  printf("\e[1;1H\e[2J");
-  printf("\t HI %s! \n",player_name); //????? WHY IS ! IN NEXT LINE  ???????
+//   printf("\e[1;1H\e[2J");
+  printf("\t HI %s \n",player_name); 
   printf("\t\t\t <QUIZ GAME> \n\t WELCOME... \n\t RULES OF GAME : \n\n");
-  printf(" 1. QUIZ CONTAINS 20 QUESTIONS ABOUT C PROGRAMMING LANGUAGE \n");
-  printf(" 2. EACH CORRECT ANSWER GETS YOU 5 POINTS \n");
-  printf(" 3. EACH INCORRECT ANSWER DEDUCTS 1 POINT \n");
-  printf(" 4. YOU CAN SKIP ANY QUESTION \n");
-  printf(" 5. YOU CAN CHECK YOUR SCORE IN DASHBOARD \n\n");
+  printf(" \t1. QUIZ CONTAINS 20 QUESTIONS ABOUT C PROGRAMMING LANGUAGE \n");
+  printf(" \t2. EACH CORRECT ANSWER GETS YOU 5 POINTS \n");
+  printf(" \t3. EACH INCORRECT ANSWER DEDUCTS 1 POINT \n");
+  printf(" \t4. YOU CAN SKIP ANY QUESTION \n");
+  printf(" \t5. YOU CAN CHECK YOUR SCORE IN DASHBOARD \n\n");
   // printf(" \t WRITE Y TO CONTINUE: \n");
 
   printf(" \n\t CHOOSE:  \n");
